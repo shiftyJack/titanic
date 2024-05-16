@@ -1,0 +1,11 @@
+latitude;longitude;city;province
+45.434139;-76.360008;arnprior;ontario
+45.47477;-76.68769;renfrew;ontario
+45.60305;-76.49192;shawville;quebec
+45.638281;-75.917142;wakefield;quebec
+45.5031737;-75.808023;chelsea;quebec
+45.4229052;-76.0204197;dunrobin;ontario
+45.136910;-76.142080;carleton place;ontario
+45.826679;-77.110817;pembroke;ontario
+45.476543;-75.701271;gatineau;quebec
+45.393230;-75.840363;aylmer;quebec
